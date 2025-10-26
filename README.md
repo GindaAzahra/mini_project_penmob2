@@ -18,6 +18,5 @@ lib/
 ✅ Tampilan modern dengan font Poppins dan warna tema pinkAccent
 
 ## Tampilan Aplikasi
-
-![Halaman Utama](https:/S1.png)
+![Halaman Utama](S1.png)
 
