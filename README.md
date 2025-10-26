@@ -19,5 +19,5 @@ lib/
 
 ## Tampilan Aplikasi
 
-![Halaman Utama](https://github.com/GindaAzahra/mini_project_penmob2/blob/main/assets/S1.png)
+![Halaman Utama](https:/S1.png)
 
