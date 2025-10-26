@@ -17,5 +17,7 @@ lib/
 ✅ Tema dapat diubah antara Light, Dark, dan System Mode
 ✅ Tampilan modern dengan font Poppins dan warna tema pinkAccent
 
-## Tampilan 
-![Halaman Utama](S1.png)
+## Tampilan Aplikasi
+
+![Halaman Utama](https://github.com/GindaAzahra/mini_project_penmob2/blob/main/assets/S1.png)
+
