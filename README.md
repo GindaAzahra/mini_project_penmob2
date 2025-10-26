@@ -16,3 +16,6 @@ lib/
 ✅ Navigasi ke halaman Tentang Aplikasi menggunakan Navigator.push()
 ✅ Tema dapat diubah antara Light, Dark, dan System Mode
 ✅ Tampilan modern dengan font Poppins dan warna tema pinkAccent
+
+## Tampilan 
+![Halaman Utama](s1.JPG)
