@@ -19,4 +19,4 @@ lib/
 
 ## Tampilan Aplikasi
 ![Halaman Utama](S1.png)
-
+![Halaman Utama](S2.png)
